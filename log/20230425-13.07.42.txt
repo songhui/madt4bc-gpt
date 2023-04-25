@@ -1,0 +1,4 @@
+[system]: 
+[user]: this is just a test. sorry
+[assistant]: No problem! If you have any questions or need assistance, feel free to ask. I'm here to help.
+{'completion_tokens': 24, 'prompt_tokens': 17, 'total_tokens': 41}
