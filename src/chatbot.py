@@ -5,7 +5,7 @@ from datetime import datetime
 
 def fixed_invoke(messages):
     return openai.ChatCompletion.create(
-        engine="gpt-4",
+        engine="gpt-35",
         messages = messages,
         temperature=0,
         max_tokens=200,
